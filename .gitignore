@@ -1,0 +1,8 @@
+# Conda environment
+.conda/
+
+# Python bytecode
+__pycache__/
+
+# demo video file
+other/
